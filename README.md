@@ -9,4 +9,4 @@
 
 ### SCHEMATICS
 
-()[https://hacksterio.s3.amazonaws.com/uploads/attachments/684801/1_orLibQIEoh.png]
+<img src="https://hacksterio.s3.amazonaws.com/uploads/attachments/684801/1_orLibQIEoh.png" />
